@@ -44,7 +44,7 @@ musicButton.addEventListener('click', async () => {
   }
 });
 
-const weddingDate = new Date('2026-08-07T19:00:00+05:00').getTime();
+const weddingDate = new Date('2026-08-015T18:00:00+05:00').getTime();
 const countdownElements = {
   days: document.getElementById('days'),
   hours: document.getElementById('hours'),
